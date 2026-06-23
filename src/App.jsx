@@ -11,14 +11,14 @@
     
     // UPDATE THIS WITH YOUR OWN INFORMATION
     const portfolioData = {
-      name:     'Sadiq Adewale',                    // Your name
+      name:     'Rufai Adebayo',                    // Your name
       title:    'Frontend Developer & UI Designer', // Your job title
       bio:      'I build beautiful, responsive web experiences.',
-      email:    'davidsadiq042@gmail.com',
-      phone:    '+234 91 2310 1059',
+      email:    'hardebayor@gmail.com',
+      phone:    '+234 808 244 17',
       location: 'Lagos, Nigeria',
-      github:   'github.com/',
-      linkedin: 'linkedin.com/in/sadiqdewale',
+      github:   'https://github.com/hardebayorufai-lang',
+      linkedin: 'linkedin.com/in/rufaiadebayo',
     }
     
     function App() {
